@@ -1,0 +1,18 @@
+.tag-list {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f4f4f4;
+  max-width: 400px;
+  margin: 2rem auto;
+}
+
+.tag-list ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.tag-list li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+}
