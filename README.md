@@ -1,8 +1,10 @@
-![Wanderlist screenshot](<Screenshot 2025-06-22 at 10.21.38 PM.png>)
+![Wanderlist screenshot](<Screenshot 2025-08-27 at 12.34.55 AM.png>)
 
 # Wanderlist
 
 **Wanderlist** is a full-stack travel bucket list application built with the **MERN stack**. Users can sign up, log in, and keep track of the destinations they've visited or want to explore. The app also allows exploring trips shared by others, displayed on a world map.
+
+live at https://wanderlist-frontend-react.vercel.app/
 
 ## Features
 
